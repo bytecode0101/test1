@@ -8,5 +8,6 @@ namespace uWarcraft
 {
     public class Class1
     {
+        this is an example of new line
     }
 }
